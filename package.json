@@ -1,0 +1,16 @@
+{
+  "name": "identity-reconciliation-",
+  "version": "1.0.0",
+  "description": "Bitespeed Backend task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "theoss"
+  ],
+  "author": "Yuvraj Sooraj Chauhan",
+  "license": "ISC"
+}
